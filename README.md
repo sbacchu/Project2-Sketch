@@ -24,3 +24,6 @@
  * Implement PyGaze and for eye tracking
  * Create Settings menu
  * Create end game option
+ 
+ ## Link For AI Demo
+ ![Link](https://aj132608.github.io/duckhunt/converted_keras/AI_Test.html)
