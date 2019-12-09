@@ -1,4 +1,4 @@
-# Final Presentation
+# ~~Sketch~~ Final Presentation
 
 ## Team Members
 
