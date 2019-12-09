@@ -1,4 +1,4 @@
-# Sketch Presentation
+# Final Presentation
 
 ## Team Members
 
@@ -10,17 +10,24 @@
 ## UI Sketch
 
 ### Game
-![Game Interface](Image.jpg) 
+
+![Game Interface](Image.jpg)
 
 ### Main Function
- * Implement Eye tracking gameplay mode
- * Implement Toggle for eye tracking vs regular game play
+
+- ~~Implement Eye tracking gameplay mode~~
+- Implement Webcam AI Nerf Gun Mode
+- Implement Toggle for ~~eye tracking~~ webcam vs regular game play
+
+## "Moving Forward"
+
+- Implement PyGaze and for eye tracking
+- Create end game option
 
 ## Current Progress
- * We started working on implementation of PyGaze
- * Modifed the code to Python 3 from Python 2
 
-## Moving Forward 
- * Implement PyGaze and for eye tracking
- * Create Settings menu
- * Create end game option
+- ~~We started working on implementation of PyGaze~~
+- Implemented AI to detect Gun direction
+- Implemented toggle
+- Implemented End Game Option
+- Modifed the code to Python 3 from Python 2
